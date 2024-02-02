@@ -30,7 +30,3 @@ I believe that one day soon, I will conquer it with everyone's lovely support. �
 My language and framework that prefer 👩🏿‍🦰
 <br>
 <br>
-![java-lang](https://github.com/thaiNguyen004/thaiNguyen004/blob/main/icons/java-original%20(1).svg)
-![apache](https://github.com/thaiNguyen004/thaiNguyen004/blob/main/icons/apache-svg.svg)
-![spring](https://github.com/thaiNguyen004/thaiNguyen004/blob/main/icons/spring-original-wordmark%20(1).svg)
-![mysql](https://github.com/thaiNguyen004/thaiNguyen004/blob/main/icons/mysql-original%20(1).svg)
