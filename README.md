@@ -14,10 +14,9 @@ I believe that one day soon, I will conquer it with everyone's lovely support. �
 - [x] :star::star::star:[Java the complete reference]
 - [x] :star::star::star:[Java Servlet and JSPs]                 
 - [x] :star::star::star::star:[Java Persistence with Hibernate]
-- [x] :star::star::star::star:Java Spring Framework 
+- [x] :star::star::star::star:[Java Spring Framework] 
 
 <details>
-<summary>Công nghệ tôi sử dụng</summary>
 
 | Rank | Languages |Logo    |
 |-----:|-----------|--------|
