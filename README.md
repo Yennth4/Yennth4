@@ -23,6 +23,6 @@ I believe that one day soon, I will conquer it with everyone's lovely support. â
 |     1| Java      |        |
 |     2| MySQL     |        |
 |     2| Hibernate |        |
-|     0| Spring Framework   |
+|     3| Spring Framework   |
 </details>
 
